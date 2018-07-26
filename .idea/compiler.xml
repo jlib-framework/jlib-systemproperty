@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jlib-s_main" target="1.8" />
+      <module name="jlib-s_test" target="1.8" />
+      <module name="jlib-systemproperty_main" target="1.8" />
+      <module name="jlib-systemproperty_test" target="1.8" />
+      <module name="jlib-syxtempr_main" target="1.8" />
+      <module name="jlib-syxtempr_test" target="1.8" />
+      <module name="jlib-syxtemproperty_main" target="1.8" />
+      <module name="jlib-syxtemproperty_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
