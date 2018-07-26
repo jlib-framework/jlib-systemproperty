@@ -21,6 +21,8 @@
 
 package org.jlib.systemproperty;
 
+import lombok.experimental.UtilityClass;
+
 import java.util.Optional;
 
 /**
@@ -28,9 +30,8 @@ import java.util.Optional;
  *
  * @author Igor Akkerman
  */
-public final class SystemPropertyUtility {
-
-    private SystemPropertyUtility() {}
+@UtilityClass
+public final class SystemProperties {
 
     /**
      * Returns the {@link Optional} value of the system property indicated by the specified key.
