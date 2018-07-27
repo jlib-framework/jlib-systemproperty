@@ -28,8 +28,6 @@ plugins {
     id 'net.researchgate.release' version '2.6.0'
 }
 
-version = '1.0.0-SNAPSHOT'
-
 description = 'jlib system property utilities'
 ext.detailedDescription = 'jlib utilities retrieving system properties'
 
@@ -43,3 +41,4 @@ dependencies {
     implementation 'org.jlib:jlib-message:1.0.0-SNAPSHOT'
     implementation 'org.jlib:jlib-exception:1.0.0-SNAPSHOT'
 }
+
